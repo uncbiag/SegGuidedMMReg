@@ -1,0 +1,13 @@
+torch>=1.4.0
+torchvision>=0.5.0
+dominate>=2.4.0
+visdom>=0.1.8.8
+wandb
+tensorboard
+tqdm
+matplotlib
+footsteps>=0.1.6
+itk>=5.3a
+girder_client==3.1.8
+icon-registration
+monai
